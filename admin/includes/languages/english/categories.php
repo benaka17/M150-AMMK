@@ -89,6 +89,9 @@ define('TEXT_PRODUCTS_URL_WITHOUT_HTTP', '<small>(without http://)</small>');
 define('TEXT_PRODUCTS_PRICE_NET', 'Products Price (Net):');
 define('TEXT_PRODUCTS_PRICE_GROSS', 'Products Price (Gross):');
 define('TEXT_PRODUCTS_WEIGHT', 'Products Weight:');
+define('TEXT_PRODUCTS_HEIGHT', 'Products Height (mm):');
+define('TEXT_PRODUCTS_WIDTH', 'Products Width (mm):');
+define('TEXT_PRODUCTS_LENGTH', 'Products Length (mm):');
 
 define('EMPTY_CATEGORY', 'Empty Category');
 
